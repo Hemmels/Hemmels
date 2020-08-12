@@ -7,8 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-Welcome to my personal repo!
+#Hemmels' personal repo!
 
 Nosey aren't you?
 
 I never really commit to github, but you'll find some intersting things if you know where to look.
+
+Here's a link to my Github Pages directory. https://hemmels.github.io/
