@@ -14,4 +14,5 @@ Nosey aren't you?
 I never really commit to github, but you'll find some intersting things if you know where to look.
 
 Here's a link to my Github page. https://www.github.com/Hemmels
+
 Here's a link to my Github Pages directory. https://hemmels.github.io/
