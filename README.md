@@ -16,3 +16,5 @@ I never really commit to github, but you'll find some intersting things if you k
 Here's a link to my Github page (Which is where you are now!). https://www.github.com/Hemmels
 
 Here's a link to my Github Pages directory. https://hemmels.github.io/
+
+And you probably want to check out my repos. https://github.com/Hemmels?tab=repositories
